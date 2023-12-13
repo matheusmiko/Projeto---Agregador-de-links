@@ -6,8 +6,9 @@ Um simples agregador de links que permite aos usuários salvar e organizar seus 
 
 ## 💻 Projeto
 
-![Modo dark](img/previw-dark.jpg "Agregador de Links-dark")
-![Modo light](img/previw-light.jpg "Agregador de Links-light")
+![Modo dark](https://github.com/matheusmiko/Projeto---Agregador-de-links/tree/main/assets/previw-dark.jpg "Agregador de Links-Dark")
+
+![Modo light](https://github.com/matheusmiko/Projeto---Agregador-de-links/tree/main/assets/previw-light.jpg "Agregador de Links-light")
 
 - [Acesse o projeto finalizado, online](https://matheusmiko.github.io/Projeto---Agregador-de-links/)
 
