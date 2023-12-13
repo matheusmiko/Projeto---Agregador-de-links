@@ -6,13 +6,10 @@ Um simples agregador de links que permite aos usuários salvar e organizar seus 
 
 ## 💻 Projeto
 
-<img src="../Projeto rocketseat/.github/previw-dark.jpg.png">
-<img src="../Projeto rocketseat/.github/previw-light.jpg.png">
+<img src="./assets/previw-dark.jpg">
+<img src="./assets/previw-light.jpg">
 
 - [Acesse o projeto finalizado, online](https://matheusmiko.github.io/Projeto---Agregador-de-links/)
-
-
-
 
 ## ⚙️ Funcionalidades
 
@@ -20,9 +17,6 @@ Um simples agregador de links que permite aos usuários salvar e organizar seus 
 - Visualizar e organizar links salvos.
 - Modo Dark e Light para personalização da experiência do usuário.
 - Responsivo para uma ótima experiência em diferentes dispositivos.
-
-
-
 
 ## 🚀 Tecnologias
 
@@ -32,10 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
-
-
-
-
 
 ## 🔖 Layout
 
